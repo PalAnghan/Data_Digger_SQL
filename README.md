@@ -1,6 +1,6 @@
 <!--
   DATA DIGGER SQL | GitHub README
-  Replace YOUR_GOOGLE_DRIVE_FILE_ID with your actual Google Drive video file ID.
+  Google Drive project demo link added.
 -->
 
 <div align="center">
@@ -25,7 +25,7 @@
 <a href="https://github.com/PalAnghan/Data_Digger_SQL">
   <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View source code" />
 </a>
-<a href="https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_FILE_ID/view">
+<a href="https://drive.google.com/file/d/1IgoVR7VGKzGPOWNcFFhwxD4tf5VsDKhg/view">
   <img src="https://img.shields.io/badge/WATCH%20PROJECT%20DEMO-FF1744?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch project demo" />
 </a>
 
@@ -212,7 +212,7 @@ Returns products priced between ₹500 and ₹2,000, including both endpoints.
 
 **Watch the project demonstration on Google Drive.**
 
-<a href="https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_FILE_ID/view">
+<a href="https://drive.google.com/file/d/1IgoVR7VGKzGPOWNcFFhwxD4tf5VsDKhg/view">
   <img src="https://img.shields.io/badge/▶%20WATCH%20FULL%20DEMO-Open%20Google%20Drive-FF1744?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch full project demonstration" />
 </a>
 
@@ -222,7 +222,7 @@ Returns products priced between ₹500 and ₹2,000, including both endpoints.
 
 </div>
 
-> **Setup required:** Replace `YOUR_GOOGLE_DRIVE_FILE_ID` in both demo links with your actual Google Drive video file ID. Set the video's General access to **Anyone with the link** and Viewer permission so visitors can watch it.
+> **Note:** Set the video's General access to **Anyone with the link** and Viewer permission so visitors can watch it.
 
 ## 🛠️ Technologies Used
 
